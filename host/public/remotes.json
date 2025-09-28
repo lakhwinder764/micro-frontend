@@ -1,0 +1,5 @@
+{
+  "auth_app": "http://localhost:5001/remoteEntry.js",
+  "booking_app": "http://localhost:5002/remoteEntry.js",
+  "reporting_app": "http://localhost:5003/remoteEntry.js"
+}
